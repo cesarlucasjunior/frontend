@@ -1,3 +1,10 @@
 p {
-    color : blue;
+    color : #F00;
+    text-align: left;
+}
+.portfolio-imagem{
+    width: 25%;
+    height: 40%;
+    opacity: 1;
+    visibility: visible;
 }
