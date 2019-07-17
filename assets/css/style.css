@@ -8,11 +8,21 @@ p {
     opacity: 1;
     visibility: visible;
 }
-#minha-imagem{
-    width: 80%;
-}
+/* #minha-imagem{
+    width: 25%;
+} */
 #meu-paragrafo{
     color: black;
+}
+.minha-classe-imagem{
+    width: 25%;
+}
+
+.minha-classe-imagem.bota.bota2{
+    position: relative;
+    display: flex;
+    justify-self: center;
+    margin: 0 auto;
 }
 
 
